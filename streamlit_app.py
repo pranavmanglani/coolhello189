@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 
 st.header("Coolhello189's Profolio")
 st.balloons()
